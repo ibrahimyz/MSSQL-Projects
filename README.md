@@ -1,2 +1,1 @@
-# MSSQL-BLM4522-Odevleri
-
+# MSSQL-BLM4522-Projects
